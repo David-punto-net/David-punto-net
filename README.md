@@ -10,6 +10,7 @@ Soy un desarrollador en tecnologías .NET.
 - [AppBlazorWebassembly_.NETCore_API - GitHub](https://github.com/David-punto-net/AppBlazorWebassembly_.NETCore_API): Aplicación web moderna con Blazor WebAssembly y .NET Core API.
 
 - [SemanticKernel_IA - GitHub](https://github.com/David-punto-net/SemanticKernel_IA): Proyecto con ejemplo de uso de IA con Semantic Kernel en .NET.
+  
 
 
 
