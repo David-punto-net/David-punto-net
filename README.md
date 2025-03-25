@@ -7,7 +7,4 @@ Soy un desarrollador en tecnologías .NET.
 - **AppBlazorWebassembly_.NETCore_API** - Aplicación web moderna con Blazor WebAssembly y .NET Core API.  
 - **SemanticKernel_IA** - Proyecto con ejemplo de uso de semanticKernel, inteligencia artificial en .NET.  
 
-## 📫 Contacto
-- 📧 Email: [davidtorresn@gmail.com](mailto:davidtorresn@gmail.com)  
 
-¡Gracias por visitar mi perfil! 🚀
