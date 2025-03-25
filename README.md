@@ -9,5 +9,6 @@ Soy un desarrollador en tecnologías .NET.
 - **SemanticKernel_IA** - Proyecto con ejemplo de uso de IA con Semantic Kernel en .NET.  
 
 
+
 ![image](https://github.com/user-attachments/assets/9f0cd028-6612-4e88-ad5c-5de1487d767a)
 
