@@ -3,7 +3,7 @@
 Soy un desarrollador en tecnologías .NET.
 
 ## 📌 Proyectos .NET
-- [IAChatDB - GitHub](https://github.com/David-punto-net/IAChatDB): Aplicación IA en .NET. Permite obtener información de una base de datos en lenguaje natural. Además, ofrece un chat basado en los datos obtenidos, donde la IA puede realizar análisis detallados de los resultados.
+- [IAChatDB - GitHub](https://github.com/David-punto-net/IAChatDB): Aplicación IA en .NET. Permite obtener información de una base de datos en lenguaje natural. Además, ofrece un chat inteligente, donde la IA puede realizar análisis detallados de los resultados.
 
 - [AppASP.NET_MVC_IA - GitHub](https://github.com/David-punto-net/AppASP.NET_MVC_IA): Aplicación con ASP.NET MVC e integración de inteligencia artificial.
 
