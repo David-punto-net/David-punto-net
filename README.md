@@ -11,6 +11,7 @@ Desarrollador en tecnologías .NET con experiencia en aplicaciones web, APIs, in
 
 - [SemanticKernel_IA](https://github.com/David-punto-net/SemanticKernel_IA): Proyecto con ejemplos de uso de IA con Semantic Kernel en .NET.
   
+  
 
 
 
