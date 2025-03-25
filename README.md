@@ -1,4 +1,4 @@
-# 👋 Hola, soy David Torres Novoa
+# Hola, soy David Torres Novoa
 
 Soy un desarrollador en tecnologías .NET.
 
