@@ -3,7 +3,7 @@
 Desarrollador en tecnologías .NET con experiencia en aplicaciones web, APIs, inteligencia artificial y soluciones empresariales.
 
 ## 📌 Proyectos .NET e IA
-- [IAChatDB](https://github.com/David-punto-net/IAChatDB): Aplicación IA en .NET con Blazor Server y Semantic Kernel. Permite obtener información de una base de datos en lenguaje natural. Además, ofrece un chat inteligente, donde la IA puede realizar análisis detallados de los datos.
+- [IAChatDB](https://github.com/David-punto-net/IAChatDB): Aplicación IA en .NET con Blazor Server y Semantic Kernel. Permite obtener información de una base de datos en lenguaje natural, además ofrece un chat inteligente para realizar análisis detallados de los datos.
 
 - [AppASP.NET_MVC_IA](https://github.com/David-punto-net/AppASP.NET_MVC_IA): Aplicación con ASP.NET MVC e integración de inteligencia artificial para mejorar la experiencia de usuario.
 
