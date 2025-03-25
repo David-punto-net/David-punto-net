@@ -2,7 +2,7 @@
 
 Desarrollador en tecnologías .NET con experiencia en aplicaciones web, APIs, inteligencia artificial y soluciones empresariales.
 
-## 📌 Proyectos .NET
+## 📌 Proyectos .NET e IA
 - [IAChatDB](https://github.com/David-punto-net/IAChatDB): Aplicación IA en .NET. Permite obtener información de una base de datos en lenguaje natural. Además, ofrece un chat inteligente, donde la IA puede realizar análisis detallados de los resultados.
 
 - [AppASP.NET_MVC_IA](https://github.com/David-punto-net/AppASP.NET_MVC_IA): Aplicación con ASP.NET MVC e integración de inteligencia artificial.
