@@ -8,4 +8,4 @@ Soy un desarrollador en tecnologías .NET.
 - **SemanticKernel_IA** - Proyecto con ejemplo de uso de semanticKernel, inteligencia artificial en .NET.  
 
 
-https://github.com/David-punto-net/AppASP.NET_MVC_IA
+
