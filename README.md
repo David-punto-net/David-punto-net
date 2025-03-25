@@ -9,6 +9,5 @@ Soy un desarrollador en tecnologías .NET.
 
 ## 📫 Contacto
 - 📧 Email: [davidtorresn@gmail.com](mailto:davidtorresn@gmail.com)  
-- 🌎 LinkedIn: [linkedin.com/in/davidtorresnovoa](https://www.linkedin.com/in/davidtorresnovoa)  
 
 ¡Gracias por visitar mi perfil! 🚀
