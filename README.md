@@ -1,6 +1,6 @@
 # Hola, soy David Torres Novoa
 
-Desarrollador en tecnologías .NET con experiencia en aplicaciones de escritorio, web, APIs, inteligencia artificial y soluciones empresariales.
+Desarrollador en tecnologías .NET con experiencia en aplicaciones de escritorio, web, APIs, inteligencia artificial y soluciones empresariales. Aquí encontraras ejemplos de aplicaciones desarrolladas por mí.
 
 ## 📌 Proyectos .NET e IA
 - [IAChatDB](https://github.com/David-punto-net/IAChatDB): Aplicación IA en .NET con Blazor Server y Semantic Kernel. Permite obtener información de una base de datos en lenguaje natural, además ofrece un chat inteligente para realizar análisis detallados de los datos.
